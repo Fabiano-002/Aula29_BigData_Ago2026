@@ -1,0 +1,75 @@
+﻿cisp,regiao,munic,estupro,flag
+21,Capital,Rio de Janeiro,1358,mais
+32,Capital,Rio de Janeiro,2830,mais
+33,Capital,Rio de Janeiro,1427,mais
+34,Capital,Rio de Janeiro,2418,mais
+35,Capital,Rio de Janeiro,4444,mais
+36,Capital,Rio de Janeiro,3154,mais
+37,Capital,Rio de Janeiro,1083,mais
+39,Capital,Rio de Janeiro,1113,mais
+43,Capital,Rio de Janeiro,1762,mais
+50,Baixada Fluminense,Itaguaí,1161,mais
+52,Baixada Fluminense,Nova Iguaçu,1336,mais
+53,Baixada Fluminense,Mesquita,1313,mais
+54,Baixada Fluminense,Belford Roxo,3366,mais
+55,Baixada Fluminense,Queimados,1614,mais
+56,Baixada Fluminense,Nova Iguaçu,2384,mais
+58,Baixada Fluminense,Nova Iguaçu,3628,mais
+59,Baixada Fluminense,Duque de Caxias,2909,mais
+60,Baixada Fluminense,Duque de Caxias,1818,mais
+62,Baixada Fluminense,Duque de Caxias,1213,mais
+64,Baixada Fluminense,São João de Meriti,3195,mais
+66,Baixada Fluminense,Magé,1382,mais
+71,Interior,Itaboraí,1301,mais
+72,Grande Niterói,São Gonçalo,1562,mais
+74,Grande Niterói,São Gonçalo,1787,mais
+75,Grande Niterói,São Gonçalo,1068,mais
+82,Grande Niterói,Maricá,1430,mais
+93,Interior,Volta Redonda,1532,mais
+105,Interior,Petrópolis,1680,mais
+110,Interior,Teresópolis,1551,mais
+118,Interior,Araruama,1068,mais
+123,Interior,Macaé,1538,mais
+126,Interior,Cabo Frio,1583,mais
+128,Interior,Rio das Ostras,1303,mais
+134,Interior,Campos dos Goytacazes,1892,mais
+146,Interior,Campos dos Goytacazes,1261,mais
+151,Interior,Nova Friburgo,1193,mais
+166,Interior,Angra dos Reis,1471,mais
+1,Capital,Rio de Janeiro,168,menos
+11,Capital,Rio de Janeiro,233,menos
+14,Capital,Rio de Janeiro,232,menos
+45,Capital,Rio de Janeiro,45,menos
+55,Baixada Fluminense,Queimados;Japeri,48,menos
+70,Interior,Tanguá,203,menos
+92,Interior,Rio das Flores,83,menos
+94,Interior,Piraí;Pinheiral,9,menos
+97,Interior,Mendes,172,menos
+98,Interior,Engenheiro Paulo de Frontin,152,menos
+100,Interior,Porto Real;Quatis,209,menos
+104,Interior,São José do Vale do Rio Preto,175,menos
+109,Interior,Sapucaia,163,menos
+111,Interior,Sumidouro,135,menos
+112,Interior,Carmo,129,menos
+120,Interior,Silva Jardim,215,menos
+122,Interior,Conceição de Macabú,192,menos
+123,Interior,Macaé;Quissamã;Carapebus,232,menos
+135,Interior,Itaocara,170,menos
+137,Interior,Miracema,182,menos
+138,Interior,Laje do Muriaé,51,menos
+139,Interior,Porciúncula,195,menos
+140,Interior,Natividade;Varre-Sai,233,menos
+141,Interior,São Fidélis,228,menos
+142,Interior,Cambuci,120,menos
+143,Interior,Itaperuna;São José de Ubá;Cardoso Moreira;Italva,110,menos
+146,Interior,Campos dos Goytacazes;São Francisco de Itabapoana,13,menos
+148,Interior,Cardoso Moreira;Italva,193,menos
+152,Interior,Duas Barras,132,menos
+153,Interior,Cantagalo,159,menos
+154,Interior,Cordeiro;Macuco,171,menos
+155,Interior,São Sebastião do Alto,55,menos
+156,Interior,Santa Maria Madalena,79,menos
+157,Interior,Trajano de Morais,72,menos
+158,Interior,Bom Jardim,147,menos
+167,Capital,Paraty,11,menos
+168,Interior,Rio Claro,135,menos
